@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Form Registrasi</string>
+    <string-array name="daftarProdi">
+        <item>Teknik Informatika"</item>
+        <item>Teknik Komputer"</item>
+        <item>Manajemen Informatika"</item>
+        <item>Bisnis Digital"</item>
+    </string-array>
+
+</resources>
