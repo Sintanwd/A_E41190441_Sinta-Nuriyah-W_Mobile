@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e26118ab-66eb-4717-b215-685ca7620479" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/java/com/example/minggu9/BuatBiodata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/java/com/example/minggu9/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/java/com/example/minggu9/LihatBiodata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/java/com/example/minggu9/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/java/com/example/minggu9/MainActivity2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/java/com/example/minggu9/Preferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/java/com/example/minggu9/RegisterActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/java/com/example/minggu9/UpdateBiodata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/res/drawable/ic_baseline_done_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/res/layout/activity_buat_biodata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/res/layout/activity_lihat_biodata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/res/layout/activity_update_biodata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minggu9/app/src/main/res/values/ids.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1tk7xjjyt3yJpm7wV7baDNoLPc8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e26118ab-66eb-4717-b215-685ca7620479" name="Default Changelist" comment="" />
+      <created>1623301481970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623301481970</updated>
+    </task>
+    <servers />
+  </component>
+</project>

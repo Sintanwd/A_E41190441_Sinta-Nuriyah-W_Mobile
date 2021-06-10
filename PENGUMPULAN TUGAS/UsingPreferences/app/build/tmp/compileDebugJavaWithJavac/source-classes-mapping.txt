@@ -1,0 +1,16 @@
+com/nihlatuliarohmahtiyas/usingpreferences/BuildConfig.java
+ com.nihlatuliarohmahtiyas.usingpreferences.BuildConfig
+com/nihlatuliarohmahtiyas/usingpreferences/Preferences.java
+ com.nihlatuliarohmahtiyas.usingpreferences.Preferences
+com/nihlatuliarohmahtiyas/usingpreferences/LoginActivity.java
+ com.nihlatuliarohmahtiyas.usingpreferences.LoginActivity
+ com.nihlatuliarohmahtiyas.usingpreferences.LoginActivity$1
+ com.nihlatuliarohmahtiyas.usingpreferences.LoginActivity$2
+ com.nihlatuliarohmahtiyas.usingpreferences.LoginActivity$3
+com/nihlatuliarohmahtiyas/usingpreferences/MainActivity.java
+ com.nihlatuliarohmahtiyas.usingpreferences.MainActivity
+ com.nihlatuliarohmahtiyas.usingpreferences.MainActivity$1
+com/nihlatuliarohmahtiyas/usingpreferences/RegisterActivity.java
+ com.nihlatuliarohmahtiyas.usingpreferences.RegisterActivity
+ com.nihlatuliarohmahtiyas.usingpreferences.RegisterActivity$1
+ com.nihlatuliarohmahtiyas.usingpreferences.RegisterActivity$2
